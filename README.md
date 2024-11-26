@@ -18,4 +18,3 @@ git push --set-upstream origin updatereadme
 Добавили текст в новой ветке new_branch
 
 Решаем конфликт в версии локальной
-
