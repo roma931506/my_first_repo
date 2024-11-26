@@ -17,5 +17,5 @@ git push --set-upstream origin updatereadme
 
 Добавили текст в новой ветке new_branch
 
-Создаем конфликтную ситуацию
+Решаем конфликт в версии браузера
 
