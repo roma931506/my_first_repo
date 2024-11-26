@@ -16,3 +16,6 @@ git push --set-upstream origin updatereadme
 Добавили текст локально.
 
 Добавили текст в новой ветке new_branch
+
+Создаем конфликтную ситуацию
+
