@@ -12,3 +12,5 @@ git push --set-upstream origin updatereadme
 Переходим на свою страницу репозитория. Выбираем ветку updatereadme и жмем кнопку Compare & pull request
 
 Далее добавили текст через браузер.
+
+Добавили текст локально.
