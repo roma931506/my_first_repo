@@ -14,3 +14,5 @@ git push --set-upstream origin updatereadme
 Далее добавили текст через браузер.
 
 Добавили текст локально.
+
+Добавили текст в новой ветке new_branch
